@@ -1,7 +1,7 @@
 ### hi! 👋 
 
-* I’m currently working on fun secret stuff at Optum (healthcare cloud) 🔭 
-* I’m currently learning ops stuff (k8s, cloud providers, orchestration) & rust-lang 🌱 
+* I’m currently working on fun stuff at Optum (healthcare cloud & operations) 🔭 
+* I’m currently learning ops stuff (k8s, cloud providers, orchestration) & [crystal](https://crystal-lang.org/) 🌱 
 * Ask me about Hwa Rang Do - traditional martial art 💬 
 
 > The simplest thing taken to the extreme can be an enlightening experience. - Taejoon Lee
