@@ -1,7 +1,5 @@
-### hi!
+### hello!
 
-* I’m currently working on fun stuff at Optum (healthcare cloud & operations) 🔭
-* Mostly focused on Node, TypeScript, React, and other JavaScript madness
-* I’m currently learning ops tools (k8s, cloud providers, orchestration) & [crystal](https://crystal-lang.org/) 🌱
+Software Engineer at [StormForge](https://stormforge.io). Fanatic about [Crystal](https://crystal-lang.org). Typically working on data services/platforms in a variety of contexts. Martial arts practitioner ([Hwa Rang Do](https://hwarangdo.com)).
 
-> The simplest thing taken to the extreme can be an enlightening experience! - Taejoon Lee
+Check out my [YouTube channel](https://www.youtube.com/channel/UCDYETfrczQEgKetN45kQWeA).
